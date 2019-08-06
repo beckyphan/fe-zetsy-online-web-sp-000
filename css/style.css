@@ -58,11 +58,12 @@ main img {
 
 .about a {
   color: rgb(152,173,166);
-	text-decoration: underline;
+  text-decoration: none;
 }
 
 .about a:hover {
 	color: rgb(111,127,122);
+  text-decoration: underline;
 }
 
 .press img {
