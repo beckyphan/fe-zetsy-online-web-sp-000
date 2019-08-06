@@ -60,12 +60,12 @@ div#about {
   width: 50%;
 }
 
-#press img {
+.press img {
   border: 5px #ccc solid;
 	padding: 1px;
 }
 
-#press img:hover {
+.press img:hover {
 	border: 5px rgb(111,127,122) solid;
 }
 
