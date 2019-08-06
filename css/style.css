@@ -58,7 +58,7 @@ main img {
 
 .about a {
   color: rgb(152,173,166);
-	text-decoration: none;
+	text-decoration: underline;
 }
 
 .about a:hover {
