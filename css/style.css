@@ -56,8 +56,8 @@ main img {
   border: 5px rgb(152,173,166) solid;
 }
 
-div#about {
-  width: 50%;
+.about a {
+  
 }
 
 .press img {
